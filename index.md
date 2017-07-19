@@ -1,6 +1,6 @@
 [Welcome to Open-NFP](http://www.open-nfp.org)
-==============================================
-###Open-NFP promotes collaborative research in the area of network function processing in server networking hardware. Open-NFP supports research on datapath acceleration in P4, P4/C and eBPF.
+----------------------------------------------
+Open-NFP promotes collaborative research in the area of network function processing in server networking hardware. Open-NFP supports research on datapath acceleration in P4, P4/C and eBPF.
 
 P4
 ---
