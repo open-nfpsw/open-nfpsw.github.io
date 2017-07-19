@@ -8,10 +8,10 @@ P4 is a high-level programming language for software-defined networks. Below are
 
 ### P4 Tutorials
 A hands on introduction to the P4 language. Tutorials with code with come with step-by-step instructions to run on production networking [hardware](http://open-nfp.org/resources/)
-- [Building a Custom Tunnel with P4](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
-- [Introduction to a NIC Wire APP in P4](https://github.com/open-nfpsw/p4wire)
-- [Building a Custom Action with a C Sandbox in P4](https://github.com/open-nfpsw/c_packetprocessing)
-- [Telemetry and VNFs](https://github.com/open-nfpsw/vnf_telemetry_lab)
+- [A P4 Tutorial to Build a Basic NIC](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
+- [A P4 Tutorial to Build a Load Balancing Metering NIC](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
+- [A P4 Tutorial lab for the P4 INT telemetry protocol with VNF](https://github.com/open-nfpsw/vnf_telemetry_lab)
+- [A P4 Tutorial lab to implement meters with P4](https://github.com/open-nfpsw/meters_lab)
 - [An Introduction to the P4 Language](http://open-nfp.org/documents/54/iee_nfv_conference_p4tutorial_SRFpcZX.pdf)
 
 ### P4 Apps to Jump Start Your Project
@@ -23,7 +23,20 @@ Many apps are accompanied by [webinars and docs](http://open-nfp.org/the-classro
 - [Network Measurement with P4 and C on Netronome NFP​](https://github.com/open-nfpsw/M-Sketch)
 - [Consensus as a Network Service](https://github.com/open-nfpsw/NetPaxos)
 
-More Learning Material
+OVS
+---
+An introduction to using accelerated Open vSwitch
+- [OVS Lab](https://github.com/open-nfpsw/ovs_lab)
+
+ICONICS
+-------
+[ICONICS](http://www.iconics.io) allows users to test and deploy P4 applications on Agilio Smart NICs without needing to use a P4/SDK toolchain. With ICONICS, users can install SmartNIC applications much as software applications are installed on a server.
+- [Talk at P4 Woorkshop 2017: Deploying P4 Applications in Server-Based Networks](http://p4.org/wp-content/uploads/2017/06/p4-ws-2017-deploying_p4_apps.pdf)
+- [ICONICS P4 yum repo]( http://iconicsp4.cloudapp.net/)
+- [ICONICS P4 wire application](https://github.com/open-nfpsw/p4c_firewall/tree/master/state_table_fw)
+- [ICONICS P4 Firewall application](https://github.com/open-nfpsw/p4wire)
+
+Learning Material
 ---------------------------------
 - [open-nfp.org/the-classroom](http://www.open-nfp.org/the-classroom)
 
