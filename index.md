@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Open-NFP
 
-You can use the [editor on GitHub](https://github.com/open-nfpsw/open-nfpsw.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+P4
+------------
+P4 is a high-level programming language for software-defined networks. It is intended to describe the behavior of the data plane of any system or appliance that forwards, modifies or inspects network traffic. Researchers are innovating using P4 in server-based networking systems with novel approaches to offloading servers using SmartNICs and realizing new functionality. Open-NFP is helping facilitate this research and bring the community together. Below are a number of educational resources and various research projects currently being developed by our community.
 
 ### Markdown
 
