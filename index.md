@@ -32,4 +32,4 @@ More Learning Material
  
 Research Projects
 ------------------------
--[open-nfp.org/projects](http://www.open-nfp.org/projects)
+- [open-nfp.org/projects](http://www.open-nfp.org/projects)
