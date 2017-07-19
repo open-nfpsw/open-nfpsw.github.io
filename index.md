@@ -1,9 +1,9 @@
-Welcome to Open-NFP
+Welcome to Open-NFP]
 ==================
 
-[Open-NFP](http://open-nfp.org/)
+[Open-NFP](http://www.open-nfp.org)
 ------------------------------------
-Open-nfp promotes collaborative research in the area of network function processing in server networking hardware. Open-nfp supports research on datapath acceleration in P4, P4/C and eBPF.
+Open-NFP promotes collaborative research in the area of network function processing in server networking hardware. Open-NFP supports research on datapath acceleration in P4, P4/C and eBPF.
 
 P4
 ---
@@ -19,12 +19,12 @@ P4 Tutorials
 
 P4 Apps to Jump Start Your Project
 -------------------------------------------------
-- P4 for Custom Identification and Flow Tagging
-- P4-based VNF and Micro-VNF Chaining for Servers With SmartNICs
- - P4 and C Stateful Firewall
-- Accelerating Networked Applications with Flexible Packet Processing
-- Network Measurement with P4 and C on Netronome NFP​
-- Consensus as a Network Service​
+- [P4 for Custom Identification and Flow Tagging](https://github.com/open-nfpsw/P4Probe)
+- [P4-based VNF and Micro-VNF Chaining for Servers With SmartNICs](https://github.com/open-nfpsw/p4_vnf_uvnf_demo)
+- [P4 and C Stateful Firewall](https://github.com/open-nfpsw/p4c_firewall)
+- [Accelerating Networked Applications with Flexible Packet Processing](https://github.com/open-nfpsw/flexnic)
+- [Network Measurement with P4 and C on Netronome NFP​](https://github.com/open-nfpsw/M-Sketch)
+- [Consensus as a Network Service​](https://github.com/open-nfpsw/NetPaxos)
 
 More Learning Material
 ---------------------------------
