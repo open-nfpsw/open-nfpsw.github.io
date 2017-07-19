@@ -8,10 +8,10 @@ P4 is a high-level programming language for software-defined networks. Below are
 
 ### P4 Tutorials
 A hands on introduction to the P4 language. Tutorials with code with come with step-by-step instructions to run on production networking [hardware](http://open-nfp.org/resources/)
-- [A P4 Tutorial to build a Basic NIC](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
-- [A P4 Tutorial to build a Load Balancing Metering NIC](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
-- [A P4 Tutorial lab for the P4 INT telemetry protocol with Virtual Network Functions(VNF)](https://github.com/open-nfpsw/vnf_telemetry_lab)
-- [A P4 Tutorial lab to implement meters with P4](https://github.com/open-nfpsw/meters_lab)
+- [A P4 tutorial to build a Basic NIC](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
+- [A P4 tutorial to build a Load Balancing Metering NIC](https://github.com/open-nfpsw/p4_basic_lb_metering_nic)
+- [A P4 tutorial lab for the P4 INT telemetry protocol with Virtual Network Functions(VNF)](https://github.com/open-nfpsw/vnf_telemetry_lab)
+- [A P4 tutorial lab to implement meters with P4](https://github.com/open-nfpsw/meters_lab)
 - [An Introduction to the P4 Language](http://open-nfp.org/documents/54/iee_nfv_conference_p4tutorial_SRFpcZX.pdf)
 
 ### P4 Apps to Jump Start Your Project
