@@ -28,8 +28,8 @@ P4 Apps to Jump Start Your Project
 
 More Learning Material
 ---------------------------------
-- [www.open-nfp.org/the-classroom](www.open-nfp.org/the-classroom)
+- [open-nfp.org/the-classroom](http://www.open-nfp.org/the-classroom)
  
 Research Projects
 ------------------------
-- [www.open-nfp.org/projects](www.open-nfp.org/projects)
+-[open-nfp.org/projects](http://www.open-nfp.org/projects)
